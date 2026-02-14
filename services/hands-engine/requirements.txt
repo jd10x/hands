@@ -1,0 +1,13 @@
+fastapi==0.70.0
+pydantic==1.8.2
+mss==6.1.0
+pyautogui==0.9.53
+pynput==1.7.4
+pillow==8.4.0
+opencv-python==4.5.5.62
+pytesseract==0.3.8
+rapidfuzz==1.0
+python-dotenv==0.19.2
+pytest==6.2.5
+pytest-asyncio==0.15.1
+pytest-cov==2.12.1
