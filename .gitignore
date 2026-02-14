@@ -1,0 +1,17 @@
+# Python Virtual Environments
+*.venv/
+.venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# IDE Settings
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Data Directories
+/data/
